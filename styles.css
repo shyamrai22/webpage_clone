@@ -1,0 +1,21 @@
+.icons {
+  display: flex;
+  gap: 16px;
+  font-family: Arial;
+   
+}
+
+.icon {
+  padding-top: 3px;
+}
+
+.icon:hover {
+
+  background-color: rgb(149, 149, 149);
+  cursor: pointer;
+
+}
+
+
+
+
